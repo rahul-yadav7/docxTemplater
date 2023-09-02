@@ -1,0 +1,23 @@
+{
+  "name": "docxtemplater",
+  "version": "1.0.0",
+  "description": "use to create reports in docx format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/rahul-yadav7/docxTemplater.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul-yadav7/docxTemplater/issues"
+  },
+  "homepage": "https://github.com/rahul-yadav7/docxTemplater#readme",
+  "dependencies": {
+    "gui": "^0.14.0",
+    "pizzip": "^3.1.4"
+  }
+}
